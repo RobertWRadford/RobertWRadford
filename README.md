@@ -5,6 +5,10 @@ Thanks  for popping by!
 
 [![Robert's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact)](https://github.com/RobertWRadford/github-readme-stats)
 
+getting smarter every day on Codewars:
+
+<img src = "https://www.codewars.com/users/RobertR928/badges/large" />
+
 LinkedIn: please feel free to reach out I'd love to connect!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/robert-w-radford/)
@@ -16,7 +20,3 @@ What I know so far:
 what I'm looking forward to learning:
 
 <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src ="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c++" />
-
-getting smarter every day on Codewars:
-
-<img src = "https://www.codewars.com/users/RobertR928/badges/large" />
