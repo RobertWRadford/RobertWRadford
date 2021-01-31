@@ -1,6 +1,5 @@
 ### Hi there 👋
 Thanks  for popping by!
-### 🌱 I'm currently working in this repo: [DSA](https://github.com/iggy18/data-structures-and-algorithms/tree/main/python/python)
 [![Robert's github stats](https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats)
 [![Robert's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact)](https://github.com/RobertWRadford/github-readme-stats)
 LinkedIn: please feel free to reach out I'd love to connect!
