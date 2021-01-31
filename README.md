@@ -1,16 +1,14 @@
 ### Hi there 👋
-
-<!--
-**RobertWRadford/RobertWRadford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks  for popping by!
+### 🌱 I'm currently working in this repo: [DSA](https://github.com/iggy18/data-structures-and-algorithms/tree/main/python/python)
+[![Robert's github stats](https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats)
+[![Robert's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact)](https://github.com/RobertWRadford/github-readme-stats)
+LinkedIn: please feel free to reach out I'd love to connect!
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/robert-w-radford/)
+What I know so far:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><img src ="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /><img src ="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+what I'm looking forward to learning:
+<img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src ="https://img.shields.io/badge/C++?style=for-the-badge&logo=c++&logoColor=white" />
+getting smarter every day on Codewars:
+<img src = "https://www.codewars.com/users/RobertR928/badges/large" />
