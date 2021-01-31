@@ -1,7 +1,10 @@
 ### Hi there 👋
 Thanks  for popping by!
+
 [![Robert's github stats](https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats)
+
 [![Robert's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact)](https://github.com/RobertWRadford/github-readme-stats)
+
 LinkedIn: please feel free to reach out I'd love to connect!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/robert-w-radford/)
 What I know so far:
