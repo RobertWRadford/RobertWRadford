@@ -15,7 +15,7 @@ What I know so far:
 
 what I'm looking forward to learning:
 
-<img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src ="https://img.shields.io/badge/C++-Solutions-blue.svg?style=for-the-badge&logo=c++" />
+<img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src ="https://img.shields.io/badge/C++.svg?style=for-the-badge&logo=c++" />
 
 getting smarter every day on Codewars:
 
