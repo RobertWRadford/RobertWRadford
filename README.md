@@ -2,7 +2,7 @@
 Thanks  for popping by!
 
 <img alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RobertWRadford&bg_color=45,d7be69,a47e4f,5c6b28,424a26,2a3019&text_color=02d2d7&title_color=99edef" />
-<img alt="Robert's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact" />
+<img alt="Robert's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford" />
 
 getting smarter every day on Codewars:
 
