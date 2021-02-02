@@ -1,13 +1,9 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-<p><a src="https://github.com/RobertWRadford/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=RobertWRadford" alt="Robert's GitHub Stats"></a><p>
+<p style="display:inline-block; width:40%; margin-left:10%;"><a src="https://github.com/RobertWRadford/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=RobertWRadford" alt="Robert's GitHub Stats"></a><p>
 
-[![Robert's github stats](https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats)
-
-<p><a src="https://github.com/RobertWRadford/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact" alt="Robert's Languages"></a><p>
-
-[![Robert's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact)](https://github.com/RobertWRadford/github-readme-stats)
+<p style="display:inline-block; width:40%; margin-left:10%;"><a src="https://github.com/RobertWRadford/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact" alt="Robert's Languages"></a><p>
 
 getting smarter every day on Codewars:
 
