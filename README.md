@@ -1,5 +1,7 @@
-## Hi there 👋
-Thanks  for popping by!
+## Hi, I'm Robert Radford 👋
+I was a Cryptologic Linguist in the Army until summer 2020 and took the lockdown period as I came out of the service to delve head first into web development and learn as much as I possibly could!
+
+---
 
 ### Git
 
@@ -7,17 +9,23 @@ Thanks  for popping by!
 
 ### Code Challenges
 
+---
+
 getting smarter every day on Codewars:
 
 <img src = "https://www.codewars.com/users/RobertR928/badges/large" />
 
 ### Connect with me!
 
+---
+
 LinkedIn: please feel free to reach out I'd love to connect!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/robert-w-radford/)
 
 ### Knowledge Base
+
+---
 
 What I know so far:
 
