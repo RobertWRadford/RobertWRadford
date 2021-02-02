@@ -1,6 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
+<a src="https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats">stats</a>
 [![Robert's github stats](https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats)
 
 [![Robert's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact)](https://github.com/RobertWRadford/github-readme-stats)
