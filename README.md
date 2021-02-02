@@ -3,8 +3,8 @@ Thanks  for popping by!
 
 
 
-<img display="inline-block" alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RobertWRadford" />
-<img display="inline-block" alt="Robert's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact" />
+<img width="40%" alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RobertWRadford" />
+<img width="40%" alt="Robert's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact" />
 
 getting smarter every day on Codewars:
 
