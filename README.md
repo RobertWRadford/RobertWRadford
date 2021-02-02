@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-<img src="https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats">
+<p><img src="https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats"><p>
 
 [![Robert's github stats](https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats)
 
