@@ -8,6 +8,8 @@ Thanks  for popping by!
 <br />
 <br />
 
+---
+
 ## CodeWars
 
 getting smarter every day on Codewars:
