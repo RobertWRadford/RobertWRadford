@@ -4,7 +4,7 @@ Thanks  for popping by!
 <img align="left" alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RobertWRadford" />
 <img align="right" alt="Robert's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact" />
 
-##getting smarter every day on Codewars:
+<p>getting smarter every day on Codewars:</p>
 
 <img src = "https://www.codewars.com/users/RobertR928/badges/large" />
 
