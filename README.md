@@ -3,7 +3,7 @@ Thanks  for popping by!
 
 <p><a src="https://github.com/RobertWRadford/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/3f7bc3feaaff3dafccd08021a1a1a2165dd6d7293a775977f58e2e728da10054/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d526f6265727457526164666f7264" alt="Robert's GitHub Stats"></a><p>
 
-<p><a src="https://github-readme-stats.vercel.app/api?username=RobertWRadford" target="_blank" rel="noopener noreferrer"><img src="https://github.com/RobertWRadford/github-readme-stats" alt="Robert's GitHub Stats"></a><p>
+<p><a src="https://github.com/RobertWRadford/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=RobertWRadford" alt="Robert's GitHub Stats"></a><p>
 
 [![Robert's github stats](https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats)
 
