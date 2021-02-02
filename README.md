@@ -34,3 +34,9 @@ What I know so far:
 what I'm looking forward to learning:
 
 <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src ="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c++" />
+
+<style>
+img {
+  width:40%;  
+}
+</style>
