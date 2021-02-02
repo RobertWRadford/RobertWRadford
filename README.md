@@ -1,15 +1,16 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-<div>
+<details>
+  <summary>Robert's GitHub Activity</summary>
   <img align="left" alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RobertWRadford" />
   <img align="right" alt="Robert's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact" />
-</div>
-<div>
+</details>
+<details>
   getting smarter every day on Codewars:
 
   <img src = "https://www.codewars.com/users/RobertR928/badges/large" />
-</div>
+</details>
 LinkedIn: please feel free to reach out I'd love to connect!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/robert-w-radford/)
