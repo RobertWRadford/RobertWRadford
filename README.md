@@ -7,6 +7,8 @@ Thanks  for popping by!
 
 [![Robert's github stats](https://github-readme-stats.vercel.app/api?username=RobertWRadford)](https://github.com/RobertWRadford/github-readme-stats)
 
+<img align="left" alt="Robert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RobertWRadford" />
+
 [![Robert's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertWradford&layout=compact)](https://github.com/RobertWRadford/github-readme-stats)
 
 getting smarter every day on Codewars:
